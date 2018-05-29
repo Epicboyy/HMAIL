@@ -1,4 +1,5 @@
 ## HACK EMAIL BY ZEFYRINUSX
+this is random password from .txt file to enter mail
 
 ## LINE ME
 <a href="http://line.me/ti/p/~esci_"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
