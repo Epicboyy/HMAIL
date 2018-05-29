@@ -1,5 +1,6 @@
 ## HACK EMAIL BY ZEFYRINUSX
-this is random password from .txt file to enter mail
+This is random password from .txt file to enter mail
+only 0.01% can be hack.
 
 ## LINE ME
 <a href="http://line.me/ti/p/~esci_"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
